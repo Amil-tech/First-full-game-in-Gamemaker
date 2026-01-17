@@ -1,1 +1,2 @@
-This was created by using a tutorial on Youtube, so it was only for learning purpose
+A complete GameMaker Studio 2 project built while following tutorial content, 
+focusing on understanding core game development principles through guided implementation.
