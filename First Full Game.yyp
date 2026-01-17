@@ -1,0 +1,48 @@
+{
+  "$GMProject":"",
+  "%Name":"First Full Game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.11.0.179",
+  },
+  "name":"First Full Game",
+  "resources":[
+    {"id":{"name":"Oblock","path":"objects/Oblock/Oblock.yy",},},
+    {"id":{"name":"Oflag","path":"objects/Oflag/Oflag.yy",},},
+    {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
+    {"id":{"name":"Ospike","path":"objects/Ospike/Ospike.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Back","path":"sprites/Back/Back.yy",},},
+    {"id":{"name":"Sprite_Block","path":"sprites/Sprite_Block/Sprite_Block.yy",},},
+    {"id":{"name":"Sprite_Flag","path":"sprites/Sprite_Flag/Sprite_Flag.yy",},},
+    {"id":{"name":"Sprite_Player","path":"sprites/Sprite_Player/Sprite_Player.yy",},},
+    {"id":{"name":"Sprite_Spike","path":"sprites/Sprite_Spike/Sprite_Spike.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
